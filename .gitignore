@@ -1,4 +1,5 @@
+Pipfile*
+.env
 mlx-examples
 my_datasets
 my_models
-Pipfile*
